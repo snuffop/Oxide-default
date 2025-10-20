@@ -6,4 +6,3 @@ path: Resource/TipJar
 ---
 
 ## {{title}} Highlights
--
