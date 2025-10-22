@@ -1,10 +1,14 @@
 ---
-title: {{title}}
 date: {{fulldate}}
-tags: [area]
+tags: 
+  - area
+  - joyent
+
 area: [joyent]
-path: Area/Joyent
 ---
 
+# {{title}}
+
 ## {{title}} Notes
+
 -

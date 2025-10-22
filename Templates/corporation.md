@@ -1,15 +1,18 @@
 ---
-title: "{{ title }}"
 date: {{fulldate}}
 tags: ["resource","corporation"]
-path: Resource/Corporation
 ---
 
+# {{ title }}
+
 ## {{ title }} Contact Information
+
 -
 
 ## References
+
 -
 
 ## Links
+
 -

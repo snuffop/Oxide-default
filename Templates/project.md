@@ -1,16 +1,18 @@
 ---
-title: "{{ title }}"
 date: {{fulldate}}
 tags: ["project"]
-project: ""
 ---
 
+# {{ title }}
+
 ## {{ title ]] Outcome
-- 
+
+-
 
 ## Next Actions
-- 
+
+-
 
 ## Context
-- 
 
+-

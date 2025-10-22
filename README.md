@@ -1,1 +1,3 @@
-Oxide-default
+# Oxide-default
+
+New Second brain project with neovim

@@ -1,8 +1,8 @@
 ---
-title: "{{ title }}"
 date: {{fulldate}}
-tags: ["area"]
-path: Area/Joyent/Jira
+tags: 
+  - joyent
+  - jira
 ---
 
 # {{ title }}

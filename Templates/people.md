@@ -1,17 +1,13 @@
 ---
-title: "{{title}}"
 date: {{fulldate}}
 tags: ["resource", "people"]
-path: Resource/People
 ---
 
+# {{title}}
 
 ## {{title}}'s Contact Information
-- 
 
 ## References
-- 
 
 ## Links
--
 
