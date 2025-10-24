@@ -3,7 +3,7 @@ date: {{fulldate}}
 tags: ["archive"]
 ---
 
-# {{ title }}
+# {{title}}
 
 ## Summary
 

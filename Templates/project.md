@@ -3,9 +3,9 @@ date: {{fulldate}}
 tags: ["project"]
 ---
 
-# {{ title }}
+# {{title}}
 
-## {{ title ]] Outcome
+## {{title]] Outcome
 
 -
 

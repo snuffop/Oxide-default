@@ -3,9 +3,9 @@ date: {{fulldate}}
 tags: ["fleeting"]
 ---
 
-# {{ title }}
+# {{title}}
 
-## {{ title }} Notes
+## {{title}} Notes
 
 -
 

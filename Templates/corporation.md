@@ -3,9 +3,9 @@ date: {{fulldate}}
 tags: ["resource","corporation"]
 ---
 
-# {{ title }}
+# {{title}}
 
-## {{ title }} Contact Information
+## {{title}} Contact Information
 
 -
 

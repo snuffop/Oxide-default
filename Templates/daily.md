@@ -1,11 +1,10 @@
 ---
-title: {{date}}
 tags: [daily, journal]
 aliases: [{{fulldate}}]
 created: {{date}} {{time}}
 ---
 
-# {{fulldate}}
+# Daily Notes for {{fulldate}}
 
 ## Links
 
@@ -23,9 +22,8 @@ created: {{date}} {{time}}
 
 ```
 
-## 💻 Worklog 
+## 💻 Worklog
 
 ## Journal
 
 -
-
