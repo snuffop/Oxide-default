@@ -9,8 +9,23 @@ created: {{date}} {{time}}
 
 ## Links
 
+-
+
 ## Tasks
 
-## 💻 Worklog
+``` text
+
+```
+
+## Time
+
+``` text
+
+```
+
+## 💻 Worklog 
 
 ## Journal
+
+-
+
