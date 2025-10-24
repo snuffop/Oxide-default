@@ -1,5 +1,6 @@
 ---
 id: Inbox
+note-type: task
 aliases:
   - Inbox
 tags:
@@ -17,12 +18,8 @@ tags:
 - [ ] How to Upgrade Proxmox VE 8 to 9 on Debian 13 Trixie [Step-by-Step Guide](https://noted.lol/proxmox-ve-8-to-9-upgrade) [id:: 3ae1dddf-d35c-4f30-8e1a-c724eee8fad9]
 - [ ] [Komodo - Manage Docker Images & Containers Across Multiple Servers](https://noted.lol/komodo/) [id:: 1d81c484-9503-4117-9b1a-16ad9e0bbc75]
 - [ ] Free server [[https://infosecwriteups.com/how-i-set-up-a-free-server-that-ill-never-have-to-pay-for-804b5fe52901][]] [id:: 1efdc7f5-a7cd-47c4-8563-cde0fabce4d9]
-- [x] <https://github.com/nbossard/obsidian-taskwarrior-sync> [completion:: 2025-10-23] [id:: 0bd1c224-9532-46a3-9914-a6bf671b49e5]
 - [ ] <https://grok.com/share/c2hhcmQtMw%3D%3D_cba108b1-7946-4e1e-b1c8-7699ca23f3c6> [id:: 298fc5d5-6f31-4c28-9993-f120f3471b8d]
 - [ ] <https://youtube.com/shorts/Ch9AErTJwPw?si=35lbfJWvWJg7oXyu> [id:: a34699a7-764b-47c7-8170-00575b9bb485]
 - [ ] Dig Into [Quartz 4](https://quartz.jzhao.xyz/) for Render markdown as page for use [id:: f2d41c97-2451-4261-8d7b-19f76b2024d5]
-- [X] More Reading [[Markdown Oxide]]  📅 2025-10-24 [id:: e59f0dfd-4975-41c0-82c7-ea33ac17d7a9]
-- [x] https://github.com/psviderski/unregistry ➕ 2025-10-21 [id:: 44e31a59-d972-41bb-a4af-f47148077f5e]
-- [X] https://bhavyansh001.medium.com/10-terminal-tricks-that-saved-me-hours-every-week-aed1fa4f9ead ➕ 2025-10-22 [id:: 17107c47-014f-4b43-8446-baa644e4a433]
-- [X] The buck act   ⏰ 9:00AM ➕ 2025-10-22 📅 2025-10-22 #read [id:: 6e49ff49-c3a9-416f-a03d-33b0c3d9769a]
+
 
