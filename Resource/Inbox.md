@@ -10,7 +10,7 @@ tags:
 - [ ] [Linked In Reading 1](https://www.linkedin.com/posts/raj-shekhar-yadav-8a5b7b229_everyone-wants-a-remote-job-but-few-know-activity-7385203524541931520-cDLQ?utm_source=share&utm_medium=member_android&rcm=ACoAAAAFJDoBbq8S3JSY-5hi4Hpb81209trvlaw) #reading [id:: 20e4ac64-df5b-4fc7-9181-469176b24552]
 - [ ] add mycpacoach.com [id:: 71b9ae48-c705-423a-9c27-0982ffd00c4f]
 - [ ] Braded wire for rocket lamp 1/2 nipple 45 degree elbow 2 inch nipple base [id:: 35aed70e-ed1d-47d7-902a-64d90a44eab1]
-- [ ] register crochetbynana.com  ⏰ 5:00PM ⏳ 2025-10-19 📅 2025-10-25 #remind [id:: a133b948-191d-456d-a202-565432960efc]
+- [ ] register crochetbynana.com   ⏰ 17:00 ⏳ 2025-10-19 📅 2025-10-31 #remind [id:: a133b948-191d-456d-a202-565432960efc]
 - [ ] [ Craft email to the joshes #A [id:: b896ac9d-dfe4-4d7b-84a3-920aee22b4e6]
 - [ ] Read instead of doom scroll  [Link](https://cultivatedculture.com/chatgpt-resume-prompt) #getanewgig [id:: 1a58e947-fd5f-47ce-b99f-764827d70b3b]
 - [ ] Localazy · [GitHub Marketplace](https://github.com/marketplace/localazy) [id:: 5a2116c9-9445-43ba-b954-177814cafc37]
