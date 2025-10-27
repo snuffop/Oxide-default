@@ -11,7 +11,7 @@ date: Tuesday October 21st 2025
 
 ## VIM Neovim Evil vi motion Highlights
 
-### Substitut all * for # at the beginning of the lines
+### Substitute all * for # at the beginning of the lines Regex
 
 ``` vim
 :%s/^\*\+/\=repeat('#', len(submatch(0)))/g
