@@ -66,5 +66,11 @@ ID Project             Tags                   Due  Description
 17 oxide                                           https://github.com/psviderski/unregistry ➕ 2025-10-21 [1]
  5 reading             homelab                     rcourtman/Pulse: Proxmox monitoring [1]                                                                                                                                                                                                                
 34 oxide               remind                      register crochetbynana.com   ⏰ 17:00 ⏳ 2025-10-19 ������ 2025-10-31 [1]
- 6 home                rigid                       register rigid tools [1]                                                                                                                                                                                                                               
+ 6 home                rigid                       register rigid tools [1]                                                                                                                                                 
+
+							Catppuccin ricers suggest:
+
+Terminal: JetBrains Mono Nerd Font, Hack Nerd Font.
+
+Desktop (GTK/QT): Inter, Readex Pro, SF Mono.												   
 29 oxide                                           task [1]
