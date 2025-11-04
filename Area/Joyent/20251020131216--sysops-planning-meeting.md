@@ -21,6 +21,11 @@ title: Sysops Planning Meeting
 ## Log
 
 ### 2025
+#### 2025-11-03
+
++ Bull Shit
++ I get pissy with my own team.  aparantly we can't change a god damn thing just bend over
+your being fucked.
 
 #### 2025-10-27
 
@@ -28,11 +33,11 @@ title: Sysops Planning Meeting
 
 #### 2025 10 13
 
-- Pager duty issues with mediater Hosts and cgroup limits
-- soc blocking  not actually running out of memeory.
+- Pager duty issues with mediator Hosts and cgroup limits
+- soc blocking  not actually running out of memory.
 - Gage Host routing for MinIO hosts  [Gage Host Routing MinIO](gage-host-routing-minio)
 - More bull shit about SRE stuff and not shared services.
-- Now were socializing talking about internet adcess in Korea
+- Now were socializing talking about internet access in Korea
   
 #### 2025 10 06
 
@@ -70,7 +75,7 @@ title: Sysops Planning Meeting
 
 #### 2025 07 21
 
-- additional work for us to vaildate Networking inteface up down on a switch to vaildate if they need to be addressed by networking.
+- additional work for us to validate Networking interface up down on a switch to validate if they need to be addressed by networking.
 
 #### 2025 07 07
 
@@ -101,7 +106,7 @@ title: Sysops Planning Meeting
 - Much of the team
 - DX ? Who does provisioning   DX or Sysops?  who cares?
   - SCM bot.
-- Frontend
+- Fronted
 
 #### 2025 02 18
 
@@ -110,7 +115,7 @@ title: Sysops Planning Meeting
 - SYSOPS-4945  Migration of Gage Server KR prod
 - Access compute host.
 - OKR   filter 14971
-- Reachable endpoint for Griffen  June July 2025
+- Reachable endpoint for Griffin  June July 2025
 - OKR  SYSOPS-2354  Configuration Validation tools for servers
 - AWS Inventory in engops
 
@@ -120,8 +125,8 @@ title: Sysops Planning Meeting
 - Hardening questions.
 - Logrotation  the lack of understanding of the jounal d system and  rotation
 - Automation of the status of grafana
-- Super Micro differences from delieverd  to us  from factories
-- dicuss doumentation  tasks and  splitting up the doc tor specific  hosts and or types of replacment
+- Super Micro differences from delivered  to us  from factories
+- discuss documentation  tasks and  splitting up the doc tor specific  hosts and or types of replacement
 - Coming to a close Parking lot 13:41
 - tiger team retirement?
 - 14:05 out
@@ -129,7 +134,7 @@ title: Sysops Planning Meeting
 #### 2025 02 03
 
 - [[denote:20240418T105613][Brian Delano]] asking what our R&R is when we expected it to come from him
-- Are the problems we're seeing, persistant or new.. after I brought these up 8 months ago.
+- Are the problems we're seeing, persistent or new.. After I brought these up 8 months ago.
 - People will not follow weak leadership.  (remember that)
 - BK wants code owners
 
@@ -142,11 +147,11 @@ title: Sysops Planning Meeting
 #### 2025 01 13
 
 - is this the first of the year?  No
-- So  DX builds the hosts and we then make it live  and that is not fast enough. for DX  so   Whatever the fuck
+- So DX builds the hosts and we then make it live  and that is not fast enough. For DX  so   Whatever the fuck
 - So we need to answer accountability questions when we still have basic issues that block us from these same teams that have still not been answered
 - So we want a process and non ambiguous  process for handling issues but our R&R is  meh
 - the 5 why's
-- Emoji interpretation ?  Really?  are you fucking kidding me?
+- Emoji interpretation ?  Really?  Are you fucking kidding me?
 
 ### 2024
 
@@ -154,7 +159,7 @@ title: Sysops Planning Meeting
 
 - I'm so checked out of this place.
 - Status level of servers availability state to know if monitoring should be live or at what
-  state  things are in.. so immature.
+  state  things are in.. Sew immature.
 
 #### 2024-12-09
 

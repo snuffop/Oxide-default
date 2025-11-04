@@ -74,3 +74,11 @@ Terminal: JetBrains Mono Nerd Font, Hack Nerd Font.
 
 Desktop (GTK/QT): Inter, Readex Pro, SF Mono.												   
 29 oxide                                           task [1]
+
+
+----
+[facebook](https://www.facebook.com/share/v/1HL77Micf7/)
+
+
+----
+[facebook](https://www.facebook.com/share/r/16ZMmFf5UD/)
